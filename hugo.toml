@@ -1,0 +1,32 @@
+baseURL = 'https://ohakn.dev/'
+theme = 'HugoTeX'
+languageCode = 'en-us'
+title = 'ohakn'
+DefaultContentLanguage = "en"
+enableInlineShortcodes = true
+footnoteReturnLinkContents = "^"
+
+[pagination]
+pagerSize = 3
+
+[Params]
+lightmode = true
+
+[Params.author]
+  name = "Ola Håkansson"
+  abstract = """
+  Code Connoisseur and Linux Adventurer in Gothenburg, Sweden.
+  """
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+  [markup.highlight]
+    style = "nord" # syntax highlighting style
+
