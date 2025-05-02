@@ -15,7 +15,7 @@ lightmode = true
 [Params.author]
   name = "Ola Håkansson"
   abstract = """
-  Code Connoisseur and Linux Adventurer in Gothenburg, Sweden.
+  Code Connoisseur and Linux Adventurer in Sweden.
   """
 
 [taxonomies]
