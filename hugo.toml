@@ -6,6 +6,10 @@ DefaultContentLanguage = "en"
 enableInlineShortcodes = true
 footnoteReturnLinkContents = "^"
 
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
+
 [pagination]
 pagerSize = 3
 
