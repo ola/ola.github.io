@@ -11,7 +11,7 @@ It's published here until I have set everything up the way I want it.
 Below there's some lorem ipsum generated text to test sidenotes,
 tables, code blocks and more for the theme.
 
-## Layout test with lorem ipsum
+### Layout test with lorem ipsum
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non mollis
 purus. Maecenas rutrum laoreet metus, nec fringilla quam auctor sit amet.
