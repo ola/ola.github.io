@@ -1,11 +1,17 @@
 +++
-title = 'Lorem Ipsum'
-date = 2025-05-05T17:10:35+02:00
+title = 'Static website and layout setup'
+date = 2026-03-19T14:40:00+02:00
 draft = true
-tags = ['lorem', 'ipsum']
+tags = ['website', 'hugo', 'theme']
 +++
 
-*A Lorem Ipsum draft post to test out custom css changes and markdown with the HugoTeX theme.*
+This is a first post to test out a static website layout using [Hugo](https://gohugo.io/) with the [HugoTeX](https://github.com/kaisugi/HugoTeX) theme and some personal tweaks.
+It's published here until I have set everything up the way I want it.
+
+Below there's some lorem ipsum generated text to test sidenotes,
+tables, code blocks and more for the theme.
+
+## Layout test with lorem ipsum
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent non mollis
 purus. Maecenas rutrum laoreet metus, nec fringilla quam auctor sit amet.
